@@ -2,7 +2,7 @@
 
 ## 📌 Présentation
 
-Billeto est une plateforme de vente de billets en ligne pour des événements
+Ambians est une plateforme de vente de billets en ligne pour des événements
 (concerts, galas, soirées). Les organisateurs publient leurs événements, les
 acheteurs paient via mobile money, et reçoivent un billet électronique avec QR code.
 
@@ -28,7 +28,7 @@ acheteurs paient via mobile money, et reçoivent un billet électronique avec QR
 ## 🗂️ Structure des Dossiers
 
 ```
-billeto/
+Ambians/
 ├── app/
 │   ├── (auth)/                  # Pages Clerk : sign-in, sign-up
 │   ├── (public)/                # Pages visiteurs : accueil, événements
@@ -377,4 +377,4 @@ pnpm supabase db push
 
 ---
 
-_Dernière mise à jour : 2025 — Billeto v1.0 MVP_
+\_
